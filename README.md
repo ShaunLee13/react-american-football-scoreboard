@@ -16,6 +16,7 @@ In this project, you build an app that displays a scoreboard for an American foo
 
 ## Project Set Up
 
+
 - [ ] Create a forked copy of this project.
 - [ ] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal
